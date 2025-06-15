@@ -1,0 +1,29 @@
+HTML and CSS?
+    What does HTML and CSS stand for?
+        HTML = Hypertext Markup Language
+        CSS = Cascading style sheets
+    Between HTML and CSS, which would you use for putting paragraphs of text on a webpage?
+        HTML
+    Between HTML and CSS, which would you use for changing the font and background color of a button?
+        CSS
+    What is the difference between HTML, CSS, and Javascript
+        HTML determines how documents and web pages are displayed in a web browser
+        CSS determines how a document created in HTML is styled
+        Javascript allows CSS and HTML elements to be change on a website after it has been loaded. Also allows for interaction and engagement with users
+
+Elements and Tags
+    Elements = pieces of content wrapped in HTML Tags
+    Tags are keywords wrapped in <>
+
+    Elements   
+        Void Elements- elements that don't have a closing tag or elements that don't have anything in them
+    3 Parts of an elements 
+        Opening tag < >
+        content
+        Closing tag </>
+
+HTML Boilerplate
+    What is the purpose of a doctype declaration?
+    What is an HTML elements?
+    What is the purpose of the head element?
+    What is the purpose of the body element?
